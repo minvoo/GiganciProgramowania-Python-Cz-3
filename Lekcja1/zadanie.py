@@ -10,14 +10,14 @@ gra = {
 
 
 ### wczytywanie słownika
-with open("l1.json","r" ) as file:
+with open("./Lekcja1/l1.json","r" ) as file:
     spis_gier = json.load(file)
 spis_gier["spis_gier"].append(gra) #dopisujemy cos do slownika
 pprint.pprint(spis_gier["spis_gier"])
 
 
 #zapisywanie słownika do innego pliku
-with open("l1_2.json", "w") as file:
+with open("./Lekcja2/l1_2.json", "w") as file:
    json.dump(spis_gier, file,  indent = 4, sort_keys = True)
 
 

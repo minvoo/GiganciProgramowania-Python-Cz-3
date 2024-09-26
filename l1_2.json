@@ -1,0 +1,34 @@
+{
+    "spis_gier": [
+        {
+            "gatunek": "akcja, niezale\u017cna, survival",
+            "rok_wydania": "2011",
+            "tytul": "Minecraft",
+            "wydawca": "Mojang Studios"
+        },
+        {
+            "gatunek": "RPG",
+            "rok_wydania": "2015",
+            "tytul": "Wiedzmin3",
+            "wydawca": "CD Project Red"
+        },
+        {
+            "gatunek": "strzelanka, niezale\u017cna, rpg",
+            "rok_wydania": "2006",
+            "tytul": "Roblox",
+            "wydawca": "Roblox Corporation"
+        },
+        {
+            "gatunek": "strzelanka",
+            "rok_wydania": "2020",
+            "tytul": "Valorant",
+            "wydawca": "Riot Games"
+        },
+        {
+            "genre": "fps",
+            "name": "Counter Strike",
+            "release_date": 1999,
+            "releaser": "valve"
+        }
+    ]
+}
