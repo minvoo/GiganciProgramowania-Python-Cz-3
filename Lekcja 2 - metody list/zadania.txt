@@ -1,0 +1,10 @@
+1   Stwórz 2 listy składające się z 3 liczb każda
+2   Połącz stworzone wcześniej listy
+3  Usuń elementy ktora zlaczylismy z indeksami 2 i 5 , który element należy usunąć najpierw?
+4 Usuń największą i najmniejszą liczbę z listy
+5 Dodaj liczbę do listy
+6 Posortuj listę
+7 Utwórz kopię listy
+8 Odwróć kolejność elementów w kopii
+9 Dodaj do każdej wartości w pierwszej liscie 1, a w drugiej odejmij 1
+10 Wyświetl obie listy
