@@ -40,8 +40,17 @@ for i in range(len(lista1)):
 #   lista1[i] += 1
 
 for i in range(len(lista2)):
+    #lista2[i] = lista2[i] - 1
     lista2[i] -= 1
 
 ### 10
 print(lista1)
 print(lista2)
+
+
+
+
+
+zmienna = 1
+zmienna = zmienna + 10 #11
+zmienna += 10 # 21
