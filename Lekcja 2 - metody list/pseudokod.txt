@@ -1,0 +1,28 @@
+class Pies
+# konstruktor itd..
+
+
+
+kolor_siersci = brazowy
+imie = Burek
+### to wyzej to pola klasy, inaczej wlasciwosci
+
+
+def dajGlos():
+    print('hau hau!')
+    print('auuuuuuuu')
+    print('idziemy na spacer)
+
+
+
+------
+
+
+Pies burek = Pies()
+
+burek.dajGlos()
+
+burek.dajGlos()
+burek.dajGlos()
+burek.dajGlos()
+burek.dajGlos()
