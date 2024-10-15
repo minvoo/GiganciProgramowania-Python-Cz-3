@@ -49,3 +49,4 @@ informacje = [f'{stolica} jest stolica kraju: {panstwo}' for panstwo, stolica in
 
 for i in informacje:
     print(i)
+
