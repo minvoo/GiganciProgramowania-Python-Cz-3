@@ -20,11 +20,12 @@ epizodycznie związany z mesjanizmem polskim, był też mistykiem.
 Obok Adama Mickiewicza uznawany powszechnie za największego przedstawiciela 
 polskiego romantyzmu."""
 
-pattern = r"\d+\s\w+\s\d{4}"
+pattern = r"\d+\s\w+\s\d{4}"  # pastebin.com/nc89i0bK
 result = re.findall(pattern, sentence)
 print(result)
 
-#3. zamien wszystkie daty z tekstu wyzej na teskt "2137"
+#3. zamien wszystkie daty z tekstu wyzej na tekst "2137"
 replecament = "2137"
 nowy_tekst = re.sub(pattern, replecament, sentence)
 print(nowy_tekst)
+
