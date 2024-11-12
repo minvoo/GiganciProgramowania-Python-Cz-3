@@ -8,4 +8,4 @@ print(f"Pierwszy zagniezdzony elemnt to {tablica[0][0]}")
 print(f"Typ obiektu tablicy {type(tablica)}")
 print(f"Ksztalt tablicy : {tablica.shape}")
 
-tablica.
+
