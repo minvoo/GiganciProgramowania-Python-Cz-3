@@ -1,0 +1,4 @@
+Należy stworzyć plik .env i uzupełnić wrażliwe dane:
+
+sender_email=XXX
+sender_password=YYY
